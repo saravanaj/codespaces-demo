@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saravanaj/codespaces-demo/issues"
   },
-  "homepage": "https://github.com/saravanaj/codespaces-demo#readme"
+  "homepage": "https://github.com/saravanaj/codespaces-demo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
